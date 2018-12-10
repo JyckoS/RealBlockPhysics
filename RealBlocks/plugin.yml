@@ -1,0 +1,10 @@
+name: RealBlockPhysics
+version: 1.0.0
+main: com.gmail.JyckoSianjaya.RealBlocks.RealBlocks
+author: Gober
+description: Lift and throw blocks
+commands:
+   throws:
+      usage: /<command>
+      aliases: [realblocks,realblockphysics,rbp]
+      description: Manage your realblockphysics!
